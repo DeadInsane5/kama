@@ -1,5 +1,11 @@
 @import "tailwindcss";
 
 .header {
-    background-color: #fff5f7;
+    background-color: #fff2f5;
+}
+.title{
+    color: #8b0000;
+}
+li{
+    text-align: center;
 }
